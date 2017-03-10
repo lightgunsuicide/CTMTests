@@ -1,0 +1,12 @@
+c:\users\kia\documents\visual studio 2015\Projects\CmtSdetTest\CmtSdetTest\bin\Debug\CmtSdetTest.dll.config
+c:\users\kia\documents\visual studio 2015\Projects\CmtSdetTest\CmtSdetTest\bin\Debug\CmtSdetTest.dll
+c:\users\kia\documents\visual studio 2015\Projects\CmtSdetTest\CmtSdetTest\bin\Debug\CmtSdetTest.pdb
+c:\users\kia\documents\visual studio 2015\Projects\CmtSdetTest\CmtSdetTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\kia\documents\visual studio 2015\Projects\CmtSdetTest\CmtSdetTest\bin\Debug\TechTalk.SpecFlow.dll
+c:\users\kia\documents\visual studio 2015\Projects\CmtSdetTest\CmtSdetTest\bin\Debug\WebDriver.dll
+c:\users\kia\documents\visual studio 2015\Projects\CmtSdetTest\CmtSdetTest\bin\Debug\WebDriver.Support.dll
+c:\users\kia\documents\visual studio 2015\Projects\CmtSdetTest\CmtSdetTest\bin\Debug\WebDriver.xml
+c:\users\kia\documents\visual studio 2015\Projects\CmtSdetTest\CmtSdetTest\bin\Debug\WebDriver.Support.xml
+c:\users\kia\documents\visual studio 2015\Projects\CmtSdetTest\CmtSdetTest\obj\Debug\CmtSdetTest.dll
+c:\users\kia\documents\visual studio 2015\Projects\CmtSdetTest\CmtSdetTest\obj\Debug\CmtSdetTest.pdb
+C:\Users\Kia\Documents\Visual Studio 2015\Projects\CmtSdetTest\CmtSdetTest\obj\Debug\Framework.csprojResolveAssemblyReference.cache

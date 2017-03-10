@@ -1,0 +1,17 @@
+C:\Users\Kia\Documents\Visual Studio 2015\Projects\CmtSdetTest\Tests\bin\Debug\Default.srprofile
+C:\Users\Kia\Documents\Visual Studio 2015\Projects\CmtSdetTest\Tests\bin\Debug\Tests.dll.config
+C:\Users\Kia\Documents\Visual Studio 2015\Projects\CmtSdetTest\Tests\bin\Debug\Tests.dll
+C:\Users\Kia\Documents\Visual Studio 2015\Projects\CmtSdetTest\Tests\bin\Debug\Tests.pdb
+C:\Users\Kia\Documents\Visual Studio 2015\Projects\CmtSdetTest\Tests\bin\Debug\CmtSdetTest.dll
+C:\Users\Kia\Documents\Visual Studio 2015\Projects\CmtSdetTest\Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Kia\Documents\Visual Studio 2015\Projects\CmtSdetTest\Tests\bin\Debug\SpecRun.SpecFlowPlugin.dll
+C:\Users\Kia\Documents\Visual Studio 2015\Projects\CmtSdetTest\Tests\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\Kia\Documents\Visual Studio 2015\Projects\CmtSdetTest\Tests\bin\Debug\TechTalk.SpecRun.dll
+C:\Users\Kia\Documents\Visual Studio 2015\Projects\CmtSdetTest\Tests\bin\Debug\WebDriver.dll
+C:\Users\Kia\Documents\Visual Studio 2015\Projects\CmtSdetTest\Tests\bin\Debug\WebDriver.Support.dll
+C:\Users\Kia\Documents\Visual Studio 2015\Projects\CmtSdetTest\Tests\bin\Debug\CmtSdetTest.pdb
+C:\Users\Kia\Documents\Visual Studio 2015\Projects\CmtSdetTest\Tests\bin\Debug\WebDriver.xml
+C:\Users\Kia\Documents\Visual Studio 2015\Projects\CmtSdetTest\Tests\bin\Debug\WebDriver.Support.xml
+C:\Users\Kia\Documents\Visual Studio 2015\Projects\CmtSdetTest\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Users\Kia\Documents\Visual Studio 2015\Projects\CmtSdetTest\Tests\obj\Debug\Tests.dll
+C:\Users\Kia\Documents\Visual Studio 2015\Projects\CmtSdetTest\Tests\obj\Debug\Tests.pdb
