@@ -8,6 +8,8 @@ These tests seek to cover, as much as is possible in three scenarios, the happy 
 These tests were written in Visual Studio 2015 Community and use the following nuget packages (in both projects): 
 Specflow, Selenium webdriver, Firefox webdriver, webdriver support 
 
+IF YOU ARE USING RESHARPER, DELETE CmtSdetTest.sln.DotSettings.user OR REPLACE VALUES WITH LOCAL SETTINGS.
+
 Hopefully a nuget restore will add any references missing however it has been known for these packages to need adding to similar projects when they have been 
 
 During development the tests have been run through resharpers Unit Test Sessions window, although this should not be a requirement to run the tests.
